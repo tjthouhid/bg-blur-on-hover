@@ -1,8 +1,13 @@
-#Plugin Name: BG Blur On Hover
+# Plugin Name: BG Blur On Hover
+
 Plugin URI: https://github.com/tjthouhid/bg-blur-on-hover/
+
 Description: This Wordpress Plugin blur background on hover 
+
 Version: 1.0.1
+
 Author: Tj Thouhid 
+
 Author URI: https://tjthouhid.me/
 
 ## How to Install
