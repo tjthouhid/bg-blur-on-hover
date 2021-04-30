@@ -10,6 +10,10 @@ Author: Tj Thouhid
 
 Author URI: https://tjthouhid.me/
 
+## Example
+
+![Blur Effects](https://imgur.com/a/SZQicgk)
+
 ## How to Install
 
 ### From this repository
