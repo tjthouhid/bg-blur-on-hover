@@ -17,7 +17,7 @@ function add_bg_blur_code(){
 	<style type="text/css">
 		.body-relative{position: relative;}
 		#bgb-overlay{
-			background-size: 100% 100%;
+			background-size: cover;
 			position: absolute;
 		    top: 0px;
 		    bottom: 0px;
