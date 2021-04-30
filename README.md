@@ -12,7 +12,7 @@ Author URI: https://tjthouhid.me/
 
 ## Example
 
-![Blur Effects](https://imgur.com/a/SZQicgk)
+![Blur Effects](https://i.imgur.com/l30W3cS.png)
 
 ## How to Install
 
